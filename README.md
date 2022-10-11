@@ -7,7 +7,7 @@ Web3 developer
 I've been doing fullstack development for around 2 years,but found my passion in web3 development
 
 
-* ✉️  You can contact me at [pradeepnadimpalli22@gmail.com](mailto:pradeepnadimpalli22@gmail.com)
+* ✉️  You can contact me at [pradeepvarma2292@gmail.com](mailto:pradeepvarma2292@gmail.com)
 * 🤝  I'm open to collaborating on Ethereum blockchain related projects
 <h3 align="center">Connect with me:</h3>
 
