@@ -48,5 +48,4 @@ I've been doing fullstack development for around 2 years,but found my passion in
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="./assets/linux-original.svg" alt="linux" width="40" height="40" /> </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="./assets/python-original.svg" alt="python" width="40" height="40" /> </a>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="./assets/bash.svg" alt="bash" width="40" height="40" /> </a>
-
 </p>
